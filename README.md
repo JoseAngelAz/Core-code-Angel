@@ -1,6 +1,7 @@
 ## Core-code-Angel
 ### Tareas del día martes.
 1. He terminado de ver el [video](https://www.youtube.com/watch?v=JNMy969SjyU&ab_channel=BGZDevTips "Compliacion y transpilación") sobre la compliación.
+   R/ Realizado!.
 ---
 2. Buscar la respuesta a la pregunta si Java es un lenguaje interpretado o compilado.
     * R/ Java es un lenguaje que se interpresta y tambien se compila pues de su lenguaje se compila a extencion .java y luego a .class.
