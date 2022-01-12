@@ -31,7 +31,7 @@ print(f"Los {dolarEnColon} dolares equivalen a {total} Colones.")
     ```python
     total = (dolarEnColon * cantidadColones)
     ```
-    5.Imprimir en pantalla la respuesta de la conversion.
+    5. Imprimir en pantalla la respuesta de la conversion.
     ```python
     print(f"Los {dolarEnColon} dolares equivalen a {total} Colones.")
     ```
@@ -39,6 +39,7 @@ print(f"Los {dolarEnColon} dolares equivalen a {total} Colones.")
 5. Por qué el pseudo código es útil?
     * R/
     El principal objetivo del pseudocódigo es el de representar la solución a un algoritmo de la forma más detallada posible, y a su vez lo más parecida posible al lenguaje que posteriormente se utilizará para la codificación del mismo.
+---
 6. Crear un pseudo código para calcular la edad aproximada de un usuario basado en el año de nacimiento.
     1. Crear la variable Actualyear inicializada con el año actual.
     ```python
