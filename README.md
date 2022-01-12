@@ -58,3 +58,15 @@ print(f"Los {dolarEnColon} dolares equivalen a {total} Colones.")
     print(f"La edad actual del usuario es: {ActualYear}")
     ```
 ---
+7. Lee acerca de los diagramas de flujo.
+    * R/ Texto leido.
+---
+8. Por que los diagramas de flujo son importantes para nosotros los desarrolladores?
+    * R/ Son importantes porque ayudan a tener una perspectiva del flujo que llevara el programa.
+    * Demostrar cómo el código está organizado.
+    * Visualizar la ejecución de un código dentro de un programa.
+    * Mostrar la estructura de un sitio web o aplicación.
+    * Comprender cómo los usuarios navegan por un sitio web o programa.
+---
+9. Buscar acerca de los lenguajes de Alto nivel y de bajo nivel, comenzando con [este video](https://www.youtube.com/watch?v=1vRPOp5p-qs&ab_channel=EliasTheProfe "Comienza a aprender").
+    * R/ Realizado!.
