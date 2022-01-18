@@ -71,3 +71,6 @@ print(f"Los {dolarEnColon} dolares equivalen a {total} Colones.")
 ---
 9. Buscar acerca de los lenguajes de Alto nivel y de bajo nivel, comenzando con [este video](https://www.youtube.com/watch?v=1vRPOp5p-qs&ab_channel=EliasTheProfe "Comienza a aprender").
     * R/ Realizado!.
+---
+### Tareas del día martes.
+1. Aprender acerca de numeros binarios
