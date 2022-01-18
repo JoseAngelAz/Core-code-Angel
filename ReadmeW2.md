@@ -79,3 +79,19 @@ Aprender acerca de de JavaScript
         typeof operando
         typeof (operando)
         El operador typeof devuelve una cadena que indica el tipo del operando sin evaluarlo. operando es la cadena, variable, palabra clave u objeto para el que se devolverá su tipo. Los paréntesis son opcionales.            
+
+* Week challenges (Monday) 💻
+    * Follow the github course, you can find it here
+    * Watch this video
+    * Read this
+    * te an account in Codewars
+* Week challenges (Tuesday) 💻
+    * Resolver este [reto](https://www.codewars.com/kata/50654ddff44f800200000004 "Ve a CodeWars")
+        * R/ Toda función debe retornar algo.
+            ```javascript
+              function multiply(a, b){
+                return  a * b
+              }
+
+             ```
+
